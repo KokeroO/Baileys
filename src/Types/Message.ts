@@ -208,7 +208,6 @@ export type AnyRegularMessageContent = (
 			Contextable &
 			Buttonable &
 			Templatable &
-			Listable &
 			Editable)
 	| {
 			contacts: {
